@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZakiHD14
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python for data science
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me ...
 
